@@ -43,7 +43,7 @@ const main = () => {
     events: {
       onReady(event) {
         event.target.playVideo();
-      }
+      },
     },
   });
 };
